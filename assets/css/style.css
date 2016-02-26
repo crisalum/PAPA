@@ -277,7 +277,7 @@ label {
 .form-control:hover, .form-control:focus {
 	outline: none;
 	border-color: #ecf0f1;
-	background-color: #FFF;
+	background-color: #ecf0f1;
 	
 	box-shadow: none;
 	-webkit-box-shadow: none;
@@ -360,7 +360,7 @@ label {
   width: 100%;
   top: 0;
   position: fixed;
-  background: url(../images/cover5.jpg) center center no-repeat; 
+  background: url(../images/cover4.jpg) center center no-repeat; 
   background-size: cover;
   z-index: -100;
 }
@@ -448,13 +448,13 @@ label {
 /*	Image
 	==================================================*/
 #image {
-	background-color: #ecf0f1;
+	background-color: #00587E;
 }
 
 /*	Gallery
 	==================================================*/ 
 #gallery {
-	background-color: #00587E;
+	background-color: #445f7b;
 	color: #FFF;
 	padding-bottom: 70px;
 }
@@ -771,14 +771,14 @@ section#contact .text-danger {
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #00587E;
+    border-color: #2c3e50;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #E5952E;
+    background-color: #2c3e50;
     
 }
 
@@ -787,9 +787,9 @@ section#contact .text-danger {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #f6bf01;
+    border-color: #445f7b;
     color: #fff;
-    background-color: #fec503;
+    background-color: #445f7b;
 }
 
 .btn-xl:active,
@@ -818,12 +818,12 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .btn-xl .badge {
-    color: #00587E;
+    color: #fed136;
     background-color: #fff;
 }
 
 
-
+/*#2c3e50*/
 
 
 
@@ -832,7 +832,7 @@ fieldset[disabled] .btn-xl.active {
 footer {
     padding: 25px 0;
     text-align: center;
-    background-color:#00587E; 
+    background-color:#2c3e50; 
 }
 
 footer span.copyright {
